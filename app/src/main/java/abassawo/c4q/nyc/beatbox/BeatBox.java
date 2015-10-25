@@ -55,7 +55,7 @@ public class BeatBox {
             }
 
         } catch(IOException ioe){
-            Log.d(TAG, "ABASS WTF", ioe);
+            Log.d(TAG, ioe);
            // ioe.printStackTrace();
         }
 
